@@ -1,0 +1,299 @@
+LOCUS       NM_000463               2361 bp    mRNA    linear   PRI 16-MAR-2023
+DEFINITION  Homo sapiens UDP glucuronosyltransferase family 1 member A1
+            (UGT1A1), mRNA.
+ACCESSION   NM_000463
+VERSION     NM_000463.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2361)
+  AUTHORS   Su YY, Chiang NJ, Chang JS, Wang YW, Shen BN, Li YJ, Hwang DY, Shan
+            YS and Chen LT.
+  TITLE     The association between UGT1A1 polymorphisms and treatment
+            toxicities of liposomal irinotecan
+  JOURNAL   ESMO Open 8 (1), 100746 (2023)
+   PUBMED   36527823
+  REMARK    GeneRIF: The association between UGT1A1 polymorphisms and treatment
+            toxicities of liposomal irinotecan.
+REFERENCE   2  (bases 1 to 2361)
+  AUTHORS   Zhou TC, Li X, Li H, Liu FW, Zhang SH, Fan JH, Yang WX, Yang YL,
+            Zhang L and Wei J.
+  TITLE     Concurrence of novel mutations causing Gilbert's and Dubin-Johnson
+            syndrome with poor clinical outcomes in a Han Chinese family
+  JOURNAL   J Hum Genet 68 (1), 17-23 (2023)
+   PUBMED   36274106
+  REMARK    GeneRIF: Concurrence of novel mutations causing Gilbert's and
+            Dubin-Johnson syndrome with poor clinical outcomes in a Han Chinese
+            family.
+REFERENCE   3  (bases 1 to 2361)
+  AUTHORS   Yang H, Li H, Xia Q, Dai W, Li X, Liu Y, Nie J, Yang F, Sun Y, Feng
+            L and Yang L.
+  TITLE     UGT1A1 variants in Chinese Uighur and Han newborns and its
+            correlation with neonatal hyperbilirubinemia
+  JOURNAL   PLoS One 17 (12), e0279059 (2022)
+   PUBMED   36520959
+  REMARK    GeneRIF: UGT1A1 variants in Chinese Uighur and Han newborns and its
+            correlation with neonatal hyperbilirubinemia.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 2361)
+  AUTHORS   Hsu PW, Liao PC, Kao YH, Lin XY, Chien RN, Yeh CT, Lai CC, Shyu YC
+            and Lin CL.
+  TITLE     The Mutation Hotspots at UGT1A Locus May Be Associated with
+            Gilbert's Syndrome Affecting the Taiwanese Population
+  JOURNAL   Int J Mol Sci 23 (20), 12709 (2022)
+   PUBMED   36293566
+  REMARK    GeneRIF: The Mutation Hotspots at UGT1A Locus May Be Associated
+            with Gilbert's Syndrome Affecting the Taiwanese Population.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 2361)
+  AUTHORS   Hanafusa H, Abe S, Ohyama S, Kyono Y, Kido T, Nakasone R, Ashina M,
+            Tanimura K, Nozu K and Fujioka K.
+  TITLE     Influence of UGT1A1 Genetic Variants on Free Bilirubin Levels in
+            Japanese Newborns: A Preliminary Study
+  JOURNAL   Int J Environ Res Public Health 19 (20), 13090 (2022)
+   PUBMED   36293671
+  REMARK    GeneRIF: Influence of UGT1A1 Genetic Variants on Free Bilirubin
+            Levels in Japanese Newborns: A Preliminary Study.
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 2361)
+  AUTHORS   Ritter JK, Yeatman MT, Ferreira P and Owens IS.
+  TITLE     Identification of a genetic alteration in the code for bilirubin
+            UDP-glucuronosyltransferase in the UGT1 gene complex of a
+            Crigler-Najjar type I patient
+  JOURNAL   J Clin Invest 90 (1), 150-155 (1992)
+   PUBMED   1634606
+REFERENCE   7  (bases 1 to 2361)
+  AUTHORS   Bosma PJ, Chowdhury JR, Huang TJ, Lahiri P, Elferink RP, Van Es HH,
+            Lederstein M, Whitington PF, Jansen PL and Chowdhury NR.
+  TITLE     Mechanisms of inherited deficiencies of multiple
+            UDP-glucuronosyltransferase isoforms in two patients with
+            Crigler-Najjar syndrome, type I
+  JOURNAL   FASEB J 6 (10), 2859-2863 (1992)
+   PUBMED   1634050
+REFERENCE   8  (bases 1 to 2361)
+  AUTHORS   Ritter JK, Chen F, Sheen YY, Tran HM, Kimura S, Yeatman MT and
+            Owens IS.
+  TITLE     A novel complex locus UGT1 encodes human bilirubin, phenol, and
+            other UDP-glucuronosyltransferase isozymes with identical carboxyl
+            termini
+  JOURNAL   J Biol Chem 267 (5), 3257-3261 (1992)
+   PUBMED   1339448
+REFERENCE   9  (bases 1 to 2361)
+  AUTHORS   Ritter JK, Crawford JM and Owens IS.
+  TITLE     Cloning of two human liver bilirubin UDP-glucuronosyltransferase
+            cDNAs with expression in COS-1 cells
+  JOURNAL   J Biol Chem 266 (2), 1043-1047 (1991)
+   PUBMED   1898728
+REFERENCE   10 (bases 1 to 2361)
+  AUTHORS   Harding D, Jeremiah SJ, Povey S and Burchell B.
+  TITLE     Chromosomal mapping of a human phenol UDP-glucuronosyltransferase,
+            GNT1
+  JOURNAL   Ann Hum Genet 54 (1), 17-21 (1990)
+   PUBMED   2108603
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC006985.2, M57899.1 and
+            AY435136.1.
+            
+            On Aug 31, 2019 this sequence version replaced NM_000463.2.
+            
+            Summary: This gene encodes a UDP-glucuronosyltransferase, an enzyme
+            of the glucuronidation pathway that transforms small lipophilic
+            molecules, such as steroids, bilirubin, hormones, and drugs, into
+            water-soluble, excretable metabolites. This gene is part of a
+            complex locus that encodes several UDP-glucuronosyltransferases.
+            The locus includes thirteen unique alternate first exons followed
+            by four common exons. Four of the alternate first exons are
+            considered pseudogenes. Each of the remaining nine 5' exons may be
+            spliced to the four common exons, resulting in nine proteins with
+            different N-termini and identical C-termini. Each first exon
+            encodes the substrate binding site, and is regulated by its own
+            promoter. The preferred substrate of this enzyme is bilirubin,
+            although it also has moderate activity with simple phenols,
+            flavones, and C18 steroids. Mutations in this gene result in
+            Crigler-Najjar syndromes types I and II and in Gilbert syndrome.
+            [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AY435136.1, JQ699644.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968540, SAMEA2142348
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000305208.10/ ENSP00000304845.5
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-3                 AC006985.2         66171-66173         c
+            4-18                M57899.1           1-15
+            19-2360             AY435136.1         1-2342
+            2361-2361           AC006985.2         53143-53143         c
+FEATURES             Location/Qualifiers
+     source          1..2361
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2q37.1"
+     gene            1..2361
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+                     /note="UDP glucuronosyltransferase family 1 member A1"
+                     /db_xref="GeneID:54658"
+                     /db_xref="HGNC:HGNC:12530"
+                     /db_xref="MIM:191740"
+     exon            1..882
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             19..1620
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+                     /EC_number="2.4.1.17"
+                     /note="UDP glycosyltransferase 1 family, polypeptide A1;
+                     bilirubin UDP-glucuronosyltranserase; bilirubin
+                     UDP-glucuronosyltransferase isozyme 1; bilirubin
+                     UDP-glucuronosyltransferase 1-1; UGT-1A; UGT1*1;
+                     UDP-glucuronosyltransferase 1A; UGT1.1; UGT1-01;
+                     UDP-glucuronosyltransferase 1A1; bilirubin-specific UDPGT
+                     isozyme 1; UDP-glucuronosyltransferase 1-A; UDP
+                     glucuronosyltransferase 1 family, polypeptide A1"
+                     /codon_start=1
+                     /product="UDP-glucuronosyltransferase 1A1 precursor"
+                     /protein_id="NP_000454.1"
+                     /db_xref="CCDS:CCDS2510.1"
+                     /db_xref="GeneID:54658"
+                     /db_xref="HGNC:HGNC:12530"
+                     /db_xref="MIM:191740"
+                     /translation="MAVESQGGRPLVLGLLLCVLGPVVSHAGKILLIPVDGSHWLSML
+                     GAIQQLQQRGHEIVVLAPDASLYIRDGAFYTLKTYPVPFQREDVKESFVSLGHNVFEN
+                     DSFLQRVIKTYKKIKKDSAMLLSGCSHLLHNKELMASLAESSFDVMLTDPFLPCSPIV
+                     AQYLSLPTVFFLHALPCSLEFEATQCPNPFSYVPRPLSSHSDHMTFLQRVKNMLIAFS
+                     QNFLCDVVYSPYATLASEFLQREVTVQDLLSSASVWLFRSDFVKDYPRPIMPNMVFVG
+                     GINCLHQNPLSQEFEAYINASGEHGIVVFSLGSMVSEIPEKKAMAIADALGKIPQTVL
+                     WRYTGTRPSNLANNTILVKWLPQNDLLGHPMTRAFITHAGSHGVYESICNGVPMVMMP
+                     LFGDQMDNAKRMETKGAGVTLNVLEMTSEDLENALKAVINDKSYKENIMRLSSLHKDR
+                     PVEPLDLAVFWVEFVMRHKGAPHLRPAAHDLTWYQYHSLDVIGFLLAVVLTVAFITFK
+                     CCAYGYRKCLGKKGRVKKAHKSKTH"
+     sig_peptide     19..93
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+     mat_peptide     94..1617
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+                     /product="UDP-glucuronosyltransferase 1A1"
+     misc_feature    322..324
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:19159218; propagated from
+                     UniProtKB/Swiss-Prot (P22309.1); glycosylation site"
+     misc_feature    901..903
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P22309.1); glycosylation site"
+     misc_feature    1057..1059
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P22309.1); glycosylation site"
+     misc_feature    1489..1539
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+                     /note="propagated from UniProtKB/Swiss-Prot (P22309.1);
+                     transmembrane region"
+     exon            883..1014
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1015..1102
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1103..1322
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1323..2361
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2341..2346
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+                     /note="hexamer: AATAAA"
+     polyA_site      2361
+                     /gene="UGT1A1"
+                     /gene_synonym="BILIQTL1; GNT1; HUG-BR1; UDPGT; UDPGT 1-1;
+                     UGT1; UGT1A"
+                     /note="major polyA site"
+ORIGIN      
+        1 ggcaggagca aaggcgccat ggctgtggag tcccagggcg gacgcccact tgtcctgggc
+       61 ctgctgctgt gtgtgctggg cccagtggtg tcccatgctg ggaagatact gttgatccca
+      121 gtggatggca gccactggct gagcatgctt ggggccatcc agcagctgca gcagagggga
+      181 catgaaatag ttgtcctagc acctgacgcc tcgttgtaca tcagagacgg agcattttac
+      241 accttgaaga cgtaccctgt gccattccaa agggaggatg tgaaagagtc ttttgttagt
+      301 ctcgggcata atgtttttga gaatgattct ttcctgcagc gtgtgatcaa aacatacaag
+      361 aaaataaaaa aggactctgc tatgcttttg tctggctgtt cccacttact gcacaacaag
+      421 gagctcatgg cctccctggc agaaagcagc tttgatgtca tgctgacgga ccctttcctt
+      481 ccttgcagcc ccatcgtggc ccagtacctg tctctgccca ctgtattctt cttgcatgca
+      541 ctgccatgca gcctggaatt tgaggctacc cagtgcccca acccattctc ctacgtgccc
+      601 aggcctctct cctctcattc agatcacatg accttcctgc agcgggtgaa gaacatgctc
+      661 attgcctttt cacagaactt tctgtgcgac gtggtttatt ccccgtatgc aacccttgcc
+      721 tcagaattcc ttcagagaga ggtgactgtc caggacctat tgagctctgc atctgtctgg
+      781 ctgtttagaa gtgactttgt gaaggattac cctaggccca tcatgcccaa tatggttttt
+      841 gttggtggaa tcaactgcct tcaccaaaat ccactatccc aggaatttga agcctacatt
+      901 aatgcttctg gagaacatgg aattgtggtt ttctctttgg gatcaatggt ctcagaaatt
+      961 ccagagaaga aagctatggc aattgctgat gctttgggca aaatccctca gacagtcctg
+     1021 tggcggtaca ctggaacccg accatcgaat cttgcgaaca acacgatact tgttaagtgg
+     1081 ctaccccaaa acgatctgct tggtcacccg atgacccgtg cctttatcac ccatgctggt
+     1141 tcccatggtg tttatgaaag catatgcaat ggcgttccca tggtgatgat gcccttgttt
+     1201 ggtgatcaga tggacaatgc aaagcgcatg gagactaagg gagctggagt gaccctgaat
+     1261 gttctggaaa tgacttctga agatttagaa aatgctctaa aagcagtcat caatgacaaa
+     1321 agttacaagg agaacatcat gcgcctctcc agccttcaca aggaccgccc ggtggagccg
+     1381 ctggacctgg ccgtgttctg ggtggagttt gtgatgaggc acaagggcgc gccacacctg
+     1441 cgccccgcag cccacgacct cacctggtac cagtaccatt ccttggacgt gattggtttc
+     1501 ctcttggccg tcgtgctgac agtggccttc atcaccttta aatgttgtgc ttatggctac
+     1561 cggaaatgct tggggaaaaa agggcgagtt aagaaagccc acaaatccaa gacccattga
+     1621 gaagtgggtg ggaaataagg taaaattttg aaccattccc tagtcatttc caaacttgaa
+     1681 aacagaatca gtgttaaatt cattttattc ttattaagga aatactttgc ataaattaat
+     1741 cagccccaga gtgctttaaa aaattctctt aaataaaaat aatagactcg ctagtcagta
+     1801 aagatatttg aatatgtatc gtgccccctc tggtgtcttt gatcaggatg acatgtgcca
+     1861 tttttcagag gacgtgcaga caggctggca ttctagatta cttttcttac tctgaaacat
+     1921 ggcctgtttg ggagtgcggg attcaaaggt ggtcccacgg ctgcccctac tgcaaatggc
+     1981 agttttaatc ttatcttttg gcttctgcag atggttgcaa ttgatcctta accaataatg
+     2041 gtcagtcctc atctctgtcg tgcttcatag gtgccacctt gtgtgtttaa agaagggaag
+     2101 ctttgtacct ttagagtgta ggtgaaatga atgaatggct tggagtgcac tgagaacagc
+     2161 atatgatttc ttgctttggg gaaaaagaat gatgctatga aattggtggg tggtgtattt
+     2221 gagaagataa tcattgctta tgtcaaatgg agctgaattt gataaaaacc caaaatacag
+     2281 ctatgaagtg ctgggcaagt ttactttttt tctgatgttt cctacaacta aaaataaatt
+     2341 aataaattta tataaattct a
+//
+

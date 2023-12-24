@@ -1,0 +1,47 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Sat  1 Jul 2023 11:47:20
+# Commandline: patmatmotifs
+#    -sequence NM_000463.fasta
+#    -outfile resultados.txt
+#    -sformat1 fasta
+#    -sdbname1 prosite
+#    -sid1 prosite/prosite.dat
+# Report_format: dbmotif
+# Report_file: resultados.txt
+########################################
+
+#=======================================
+#
+# Sequence: prosite/prosite.dat     from: 1   to: 533
+# HitCount: 2
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 518 of sequence
+End = position 521 of sequence
+
+Motif = AMIDATION
+
+GYRKCLGKKGRVKK
+     |  |
+   518  521
+
+Length = 44
+Start = position 354 of sequence
+End = position 397 of sequence
+
+Motif = UDPGT
+
+TILVKWLPQNDLLGHPMTRAFITHAGSHGVYESICNGVPMVMMPLFGDQMDNAK
+     |                                          |
+   354                                          397
+
+
+#---------------------------------------
+#---------------------------------------
